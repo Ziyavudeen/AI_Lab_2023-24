@@ -36,7 +36,15 @@ dfs(visited, graph, '5')
 
 ### Output:
 
-![Uploading image.png…]()
+Following is the Depth-First Search
+5
+3
+2
+4
+8
+7
+
+=== Code Execution Successful ===
 
 
 ### Result:
