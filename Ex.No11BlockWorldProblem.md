@@ -57,9 +57,9 @@ Step 10 : Obtain the plan for given problem.<br>
    (:goal (and (on a b))))
 ```
 ### Output/Plan:
-Image 1
-![image](https://github.com/Ziyavudeen/AI_Lab_2023-24/assets/120120067/790a7dd8-6e90-45f7-aca3-9af3acc8985c)
-Image 2
+Image 1 <br>
+![image](https://github.com/Ziyavudeen/AI_Lab_2023-24/assets/120120067/790a7dd8-6e90-45f7-aca3-9af3acc8985c)<br>
+Image 2<br>
 ![image](https://github.com/Ziyavudeen/AI_Lab_2023-24/assets/120120067/b5d727dd-ef11-42a2-9ad2-81cfa2f497ae)
 
 
